@@ -1,0 +1,53 @@
+[
+  {
+    "fileName": "build/monterey-graphic-0.png",
+    "azimuth": 110.0,
+    "altitude": 25.0
+  },
+  {
+    "fileName": "build/monterey-graphic-1.png",
+    "isPrimary": true,
+    "azimuth": 70.0,
+    "altitude": -25.0
+  },
+  {
+    "fileName": "build/monterey-graphic-2.png",
+    "azimuth": 80.0,
+    "altitude": -9.0
+  },
+  {
+    "fileName": "build/monterey-graphic-3.png",
+    "azimuth": 90.0,
+    "altitude": 0.0
+  },
+  {
+    "fileName": "build/monterey-graphic-4.png",
+    "azimuth": 100.0,
+    "altitude": 10.0
+  },
+  {
+    "fileName": "build/monterey-graphic-0.png",
+    "azimuth": 250.0,
+    "altitude": 25.0
+  },
+  {
+    "fileName": "build/monterey-graphic-5.png",
+    "azimuth": 260.0,
+    "altitude": 10.0
+  },
+  {
+    "fileName": "build/monterey-graphic-6.png",
+    "azimuth": 270.0,
+    "altitude": 0.0
+  },
+  {
+    "fileName": "build/monterey-graphic-7.png",
+    "azimuth": 280.0,
+    "altitude": -9.0
+  },
+  {
+    "fileName": "build/monterey-graphic-1.png",
+    "azimuth": 290.0,
+    "altitude": -25.0
+  }
+]
